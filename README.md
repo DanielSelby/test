@@ -53,6 +53,8 @@ SELECT
   Nana,
   Euginia
 FROM Blossom_Academy
+WHERE Job_role = TRUE
+GROUP BY Industry
 ```
 
 
