@@ -79,6 +79,11 @@ GROUP BY Industry
 ## Data visualization
 ![Wireframing](https://github.com/DanielSelby/test/blob/main/Picture1.png)
 
+<figure>
+  <img src="https://github.com/Songonge/Looker-Studio-Projects/blob/main/Employee%20Analysis/Employee_Analysis_Dashboard.png" width=100% height=100% alt="alt text">
+  <figcaption>Figure: Wireframing</figcaption>
+</figure>
+
 ## Insights 
 
 ## Recommendations
