@@ -64,7 +64,8 @@ GROUP BY Industry
 > Posting on LinkedIn will open doors for you.
 
 > [!TIP]
-> Post at least three times a week go gain visibility.
+> 1. Post at least three times a week go gain visibility.
+> 2. Comment on other people's posts
 
 > [!WARNING]
 > Do not compare yourself to other people.
