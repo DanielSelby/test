@@ -79,8 +79,9 @@ GROUP BY Industry
 ## Data visualization
 ![Wireframing](https://github.com/DanielSelby/test/blob/main/Picture1.png)
 
-|:------:|
 |Wireframing|
+|:------:|
+
 
 <figure>
   <img src="https://github.com/DanielSelby/test/blob/main/Picture1.png" width=100% height=100% alt="alt text">
