@@ -56,7 +56,7 @@ FROM Blossom_Academy
 WHERE Job_role = TRUE
 GROUP BY Industry
 ```
-
+```sql
 SELECT 
 	c.name,
     w.wishes ->> 'first_choice' AS primary_wish,
@@ -83,6 +83,7 @@ LEFT JOIN toy_catalogue AS t2
 ORDER BY c.name ASC
 LIMIT 5;
 ;
+```
 
 > [!NOTE]
 > Your GitHub is your portfolio
