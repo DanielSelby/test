@@ -77,6 +77,7 @@ GROUP BY Industry
 
 
 ## Data visualization
+![Wireframing]
 
 ## Insights 
 
