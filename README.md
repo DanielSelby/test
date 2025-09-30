@@ -21,13 +21,13 @@ How many columns?
 * _Employee_Id_:	Unique employee identifier
 * _Full_Name_:	Employee full name (synthetic)
 * Gender	Employee gender (M/F/Other)
-* Age	Employee age in years
-Education_Level	Highest education level achieved
-Hire_Date	Date when employee was hired (dd/mm/yyyy)
-Exit_Date	Date when employee left (dd/mm/yyyy, blank if active)
-Department	Business department/division
-Job_Role	Specific job position/title
-Job_Level	Seniority level (Entry/Associate/Supervisor/Manager/Executive)
+* Age	Employee age in years  
+Education_Level	Highest education level achieved  
+Hire_Date	Date when employee was hired (dd/mm/yyyy)  
+Exit_Date	Date when employee left (dd/mm/yyyy, blank if active)  
+Department	Business department/division  
+Job_Role	Specific job position/title  
+Job_Level	Seniority level (Entry/Associate/Supervisor/Manager/Executive)  
 Employment_Type	Employment classification (Full-time/Part-time/Seasonal/Contractor)
 Store_Location	City/region where employee works
 Store_Location_Latitude	Data field - see sheet for values
