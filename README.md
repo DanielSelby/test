@@ -41,6 +41,24 @@ Base_Salary_Annual	Annual base salary in currency units
 Preview the data.
 What did you do?
 
+```python
+print("Data Analytics is sweet!")
+```
+
+```sql
+SELECT
+  Daniel,
+  Cindy,
+  Emmanuel,
+  Nana,
+  Euginia
+FROM Blossom_Academy
+```
+
+
+
+  
+
 ## Data Modeling
 
 
@@ -54,6 +72,8 @@ What did you do?
 ## Recommendations
 
 ## Conclusion
+
+
 
 
 
