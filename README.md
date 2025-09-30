@@ -77,7 +77,7 @@ GROUP BY Industry
 
 
 ## Data visualization
-![Wireframing]
+![Wireframing](https://github.com/DanielSelby/test/blob/main/Picture1.png)
 
 ## Insights 
 
