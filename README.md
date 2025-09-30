@@ -15,13 +15,13 @@
 ## Objectives and deliverables
 
 ## Data source
-WHere did you get the datset?
-How many rows?
-How many columns?
-_Employee_Id_:	Unique employee identifier
-_Full_Name_:	Employee full name (synthetic)
-Gender	Employee gender (M/F/Other)
-Age	Employee age in years
+WHere did you get the datset?  
+How many rows?  
+How many columns?  
+* _Employee_Id_:	Unique employee identifier
+* _Full_Name_:	Employee full name (synthetic)
+* Gender	Employee gender (M/F/Other)
+* Age	Employee age in years
 Education_Level	Highest education level achieved
 Hire_Date	Date when employee was hired (dd/mm/yyyy)
 Exit_Date	Date when employee left (dd/mm/yyyy, blank if active)
